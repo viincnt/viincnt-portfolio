@@ -27,8 +27,7 @@
       {
         "tab": "Works",
         "pages": [
-          "introduction",
-          "prisma"
+          "introduction"
         ]
       }
     ]
